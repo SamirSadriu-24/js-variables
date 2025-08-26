@@ -8,6 +8,10 @@ console.log(myName);
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+const number = 24042003;
+const text = 'E la mia data di nascita?';
+const bool = true;
+console.log( number, text, bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
